@@ -1,0 +1,24 @@
+name: base
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.9
+  - setuptools
+  - tqdm
+  # Scientific computing
+  - ipykernel=6.15.1
+  - numba
+  - numpy
+  - pandas
+  - pip:
+  - optuna
+  - scikit-learn
+  - scipy
+  - seaborn
+  - joblib
+  # PyTorch
+  - pytorch
+  - pytorch-cuda=12.1
