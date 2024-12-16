@@ -1,5 +1,5 @@
 ## Cross-Domain Recommendation Systems Hackathon
-###Overview
+### Overview
 This hackathon focused on developing cross-domain recommendation systems using datasets from Zvuk (a music streaming service) and MegaMarket (an online retail platform). The event saw participation from 100 teams, and our solution secured a prize-winning position.
 
 ### Hackathon Objective
